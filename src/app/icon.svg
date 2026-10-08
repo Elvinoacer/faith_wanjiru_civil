@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#F6F5F1"/>
+  <rect x="4" y="4" width="56" height="56" fill="none" stroke="#172027" stroke-width="2.5"/>
+  <line x1="14" y1="4" x2="14" y2="60" stroke="#D7DBDE" stroke-width="1"/>
+  <line x1="50" y1="4" x2="50" y2="60" stroke="#D7DBDE" stroke-width="1"/>
+  <line x1="4" y1="14" x2="60" y2="14" stroke="#D7DBDE" stroke-width="1"/>
+  <line x1="4" y1="50" x2="60" y2="50" stroke="#D7DBDE" stroke-width="1"/>
+  <text x="32" y="41" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#2457A6" text-anchor="middle">FW</text>
+  <circle cx="50" cy="14" r="3" fill="#D99A2B"/>
+</svg>
